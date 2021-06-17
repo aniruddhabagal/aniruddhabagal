@@ -1,9 +1,6 @@
 <div align="center">
   <a href="aniruddhabagal.netlify.app"><img src="github-banner.png" alt="Aniruddha's Header"></a>
 
-
-### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
-
 <a href="https://www.linkedin.com/in/aniruddha-bagal">
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
@@ -14,6 +11,12 @@
 <a href="mailto:bagalaniruddha@gmail.com">
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a>
+</div>
+
+
+### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
+
+
 <br><br><br>
 
 
