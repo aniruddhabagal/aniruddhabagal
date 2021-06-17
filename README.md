@@ -1,7 +1,7 @@
-[![Header](github-banner.png "Header")]("github-banner.png")
+[![Header](aniruddhabagalnetlify.app "Header")]("github-banner.png")
 
 
-### Hi There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>I'm [Aniruddha!](http://aniruddhabagal.netlify.app) 
+### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
 
 <a href="https://www.linkedin.com/in/aniruddha-bagal">
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
