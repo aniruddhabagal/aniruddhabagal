@@ -1,6 +1,6 @@
 <div align="center">
   <a href="aniruddhabagal.netlify.app"><img src="github-banner.png" alt="Aniruddha's Header"></a>
-
+<center>
 <a href="https://www.linkedin.com/in/aniruddha-bagal">
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
@@ -10,8 +10,9 @@
 
 <a href="mailto:bagalaniruddha@gmail.com">
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
-</a>
+</a><center>
 </div>
+<br><br>
 
 
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
@@ -26,13 +27,22 @@ I'm a junior pursuing my BTech in Computer Science & Engineering. <b> I'm a tota
 
 </p>
 
+### SkillSet/Currently Learning:
+ + C/C++
+ + JavaScript
+ + Golang
+ + Python
+ + CSS
+ + Python
+ + React JS
+
+<div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddhabagal&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal)
 
 ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aniruddhabagal&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
-
-
+</div>
 
 
 
