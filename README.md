@@ -1,4 +1,4 @@
-[![Header](github-banner "github-banner")]("github-banner")
+[![Header](github-banner.png "Header")]("github-banner.png")
 
 
 ### Hi There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>I'm [Aniruddha!](http://aniruddhabagal.netlify.app) 
