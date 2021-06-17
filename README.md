@@ -1,4 +1,5 @@
-[![Header](github-banner.png "Header")](aniruddhabagal.netlify.app)
+<div align="center">
+  <a href="aniruddhabagal.netlify.app"><img src="github-banner.png" alt="Aniruddha's Header"></a>
 
 
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
