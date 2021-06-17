@@ -1,15 +1,16 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>I'm [Aniruddha!](http://aniruddhabagal.netlify.app) 
 
 <a href="https://www.linkedin.com/in/aniruddha-bagal">
-  <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="left" width="27px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/AniruddhaBagal">
   <img align="left" width="26px" src="Twitter-Logo.png" />
 </a>
 
 <a href="mailto:bagalaniruddha@gmail.com">
-  <img align="left" width="26px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
+  <img align="left" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a>
+
 
 <!--
 **aniruddhabagal/aniruddhabagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
