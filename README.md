@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aniruddha!](http://aniruddhabagal.netlify.app) 
+
+
+<a href="mailto:bagalaniruddha@gmail.com">
+  <img align="left" width="26px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 
 <!--
 **aniruddhabagal/aniruddhabagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +21,9 @@ Here are some ideas to get you started:
 
 <p> Welcome to my Profile!
 I'm a junior pursuing my BTech in Computer Science & Engineering. <b> I'm a total tech bluff, an open source enthusiast.
+
 </p>
- 
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddhabagal&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal)
 
