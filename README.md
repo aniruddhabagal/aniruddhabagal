@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="aniruddhabagal.netlify.app"><img src="github-banner.png" alt="Aniruddha's Header"></a>
+  <a href="https://aniruddhabagal.netlify.app/"><img src="github-banner.png" alt="Aniruddha's Header"></a>
 <center>
 <a href="https://www.linkedin.com/in/aniruddha-bagal">
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -10,20 +10,15 @@
 
 <a href="mailto:bagalaniruddha@gmail.com">
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
-</a><center>
+</a></center>
 </div>
 <br><br>
 
 
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
 
-
-<br><br><br>
-
-
-
 ### <p> Welcome to my Profile!
-I'm a junior pursuing my BTech in Computer Science & Engineering. <b> I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
+<b> I'm a junior pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
 
 </p>
 
@@ -44,7 +39,7 @@ I'm a junior pursuing my BTech in Computer Science & Engineering. <b> I'm a tota
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 </div>
 
-
+</b>
 
 
 
