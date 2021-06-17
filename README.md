@@ -10,7 +10,7 @@
 <a href="mailto:bagalaniruddha@gmail.com">
   <img align="left" width="30px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a>
-<br><br><br>
+<br><br>
 
 <!--
 **aniruddhabagal/aniruddhabagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
