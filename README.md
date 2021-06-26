@@ -27,9 +27,9 @@
  + JavaScript
  + Golang
  + Python
- + CSS
- + Python
  + React JS
+ + CSS
+ + HTML
 
 <div align="center">
 
