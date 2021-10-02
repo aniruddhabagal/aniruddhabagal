@@ -8,7 +8,7 @@
   <img align="left" width="26px" src="Twitter-Logo.png" />
 </a>
 
-<a href="mailto:bagalaniruddha@gmail.com">
+<a href="mailto:aniruddhabagal09@gmail.com">
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a>
 </div>
