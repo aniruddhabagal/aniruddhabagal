@@ -35,7 +35,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddhabagal&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal)
 
-![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aniruddhabagal&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)<br>
+<!-- ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aniruddhabagal&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)<br> -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 </div>
 
