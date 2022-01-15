@@ -18,7 +18,7 @@
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
 
 ### <p> Welcome to my Profile!
-<b> I'm a junior pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
+<b> I'm a sophomore pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
 
 </p>
 
@@ -30,6 +30,7 @@
  + React JS
  + CSS
  + HTML
+ + Java
 
 <div align="center">
 
