@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://aniruddhabagal.netlify.app/"><img src="github-banner.png" alt="Aniruddha's Header"></a>
+  <a href="https://aniruddhabagal.netlify.app/" target="_blank ><img src="github-banner.png" alt="Aniruddha's Header"></a>
 <br><br>
-<a href="https://www.linkedin.com/in/aniruddha-bagal">
+<a href="https://www.linkedin.com/in/aniruddha-bagal" target="_blank >
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/AniruddhaBagal">
+<a href="https://twitter.com/AniruddhaBagal" target="_blank >
   <img align="left" width="26px" src="Twitter-Logo.png" />
 </a>
 
-<a href="mailto:aniruddhabagal09@gmail.com">
+<a href="mailto:aniruddhabagal09@gmail.com" target="_blank >
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a>
 </div>
