@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://aniruddhabagal.netlify.app/" target="_blank ><img src="github-banner.png" alt="Aniruddha's Header"></a>
+  <a href="https://aniruddhabagal.netlify.app/" target="_blank" ><img src="github-banner.png" alt="Aniruddha's Header"></a>
 <br><br>
 <a href="https://www.linkedin.com/in/aniruddha-bagal" target="_blank" >
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
