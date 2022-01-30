@@ -2,6 +2,7 @@
 [![Linkedin: Aniruddha Bagal](https://img.shields.io/badge/-Aniruddha%20Bagal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-bagal/)](https://www.linkedin.com/in/aniruddha-bagal/)
 [![Twitter: Aniruddha Bagal](https://img.shields.io/twitter/follow/AniruddhaBagal?style=social)](https://twitter.com/AniruddhaBagal)
 [![Polywork Badge](https://img.shields.io/badge/-aniruddhabagal-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/aniruddhabagal)](http://polywork.com/aniruddhabagal)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 
 <div align="center">
   <a href="https://aniruddhabagal.netlify.app/" target="_blank" ><img src="github-banner.png" alt="Aniruddha's Header"></a>
@@ -37,12 +38,11 @@
  + HTML
  + Java
 
-<div align="center">
+<div align>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddhabagal&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhabagal&layout=compact&theme=calm)](https://github.com/aniruddhabagal/github-readme-stats)
 <!-- ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aniruddhabagal&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)<br> -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 </div>
 
 </b>
