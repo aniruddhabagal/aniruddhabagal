@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://aniruddhabagal.netlify.app/" target="_blank" ><img src="github-banner.png" alt="Aniruddha's Header"></a>
 <br><br>
@@ -11,15 +12,13 @@
 <a href="mailto:aniruddhabagal09@gmail.com" target="_blank" >
   <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
 </a> -->
- [![GitHub aniruddhabagal](https://img.shields.io/github/followers/aniruddhabagal?label=follow&style=social)](https://github.com/aniruddhabagal)
-[![Linkedin: Aniruddha Bagal](https://img.shields.io/badge/-Aniruddha%20Bagal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-bagal/)](https://www.linkedin.com/in/aniruddha-bagal/)
-[![Twitter: Aniruddha Bagal](https://img.shields.io/twitter/follow/AniruddhaBagal?style=social)](https://twitter.com/AniruddhaBagal)
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vermakhushboo&left_color=gray&right_color=blue) -->
-[![Polywork Badge](https://img.shields.io/badge/-aniruddhabagal-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/aniruddhabagal)](http://polywork.com/aniruddhabagal)
   
 </div>
 <br><br>
-
+[![GitHub aniruddhabagal](https://img.shields.io/github/followers/aniruddhabagal?label=follow&style=social)](https://github.com/aniruddhabagal)
+[![Linkedin: Aniruddha Bagal](https://img.shields.io/badge/-Aniruddha%20Bagal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-bagal/)](https://www.linkedin.com/in/aniruddha-bagal/)
+[![Twitter: Aniruddha Bagal](https://img.shields.io/twitter/follow/AniruddhaBagal?style=social)](https://twitter.com/AniruddhaBagal)
+[![Polywork Badge](https://img.shields.io/badge/-aniruddhabagal-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/aniruddhabagal)](http://polywork.com/aniruddhabagal)
 
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
 
