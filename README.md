@@ -18,7 +18,7 @@
 </a>
   
 </div>
-<br><br>
+<br>
 
 ### Hi There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
 
