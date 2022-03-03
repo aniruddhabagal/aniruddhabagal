@@ -27,8 +27,8 @@
 <b> I'm a sophomore pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
 
 </p>
-
-### SkillSet/Currently Learning:
+<hr>
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
  + C/C++
  + JavaScript
  + Golang
