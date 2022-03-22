@@ -43,8 +43,6 @@
  + Golang
  + Python
  + React JS
- + CSS
- + HTML
  + Java
 <hr>
 <div align>
