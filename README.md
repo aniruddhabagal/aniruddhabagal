@@ -21,7 +21,7 @@
 </div>
 <br>
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> -->
-### <h1>Hey There! I'm Aniruddha!</h1>
+<h1>Hey There! I'm Aniruddha!</h1>
 ### <p> About Me:
 <b> I'm a sophomore pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
 
