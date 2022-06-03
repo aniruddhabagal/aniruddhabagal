@@ -20,14 +20,15 @@
   
 </div>
 <br>
-
-### <h1>Hey There! I'm Aniruddha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"></h1>
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> -->
+### <h1>Hey There! I'm Aniruddha!</h1>
 ### <p> About Me:
 <b> I'm a sophomore pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
 
 </p>
 <hr>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "15px"> </h2>
+<!--  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "15px">  -->
+<h2> Skills </h2>
 <a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></a>
 <a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 <a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
