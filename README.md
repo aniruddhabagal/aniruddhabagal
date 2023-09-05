@@ -90,6 +90,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
