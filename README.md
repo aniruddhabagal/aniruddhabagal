@@ -1,79 +1,91 @@
-[![GitHub aniruddhabagal](https://img.shields.io/github/followers/aniruddhabagal?label=follow&style=social)](https://github.com/aniruddhabagal)
-[![Linkedin: Aniruddha Bagal](https://img.shields.io/badge/-Aniruddha%20Bagal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-bagal/)](https://www.linkedin.com/in/aniruddha-bagal/)
-[![Twitter: Aniruddha Bagal](https://img.shields.io/twitter/follow/AniruddhaBagal?style=social)](https://twitter.com/AniruddhaBagal)
-[![Polywork Badge](https://img.shields.io/badge/-aniruddhabagal-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/aniruddhabagal)](http://polywork.com/aniruddhabagal)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
-
-<div align="center">
-  <a href="https://aniruddhabagal.netlify.app/" target="_blank" ><img src="github-banner.png" alt="Aniruddha's Header"></a>
-<br><br>
-<a href="https://www.linkedin.com/in/aniruddha-bagal" target="_blank" >
-  <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/AniruddhaBagal" target="_blank" >
-  <img align="left" width="26px" src="Twitter-Logo.png" />
-</a>
-
-<a href="mailto:aniruddhabagal09@gmail.com" target="_blank" >
-  <img align="left" width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
-</a>
-  
-</div>
-<br>
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> -->
-<h1>Hey There! I'm Aniruddha!</h1>
-<b><p> About Me: <br>
-I'm a sophomore pursuing my BTech in Computer Science & Engineering. I'm a total tech bluff and an open source enthusiast. I am passionate about C++, Web Development and Machine Learning. I love reading and trying out new tech related things. 
-
-</p>
-<hr>
-<!--  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "15px">  -->
-<h2> Skills </h2>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href=https://github.com/aniruddhabagal><img width ='32px' src ='https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg'> </a>
-
- + C/C++
- + JavaScript
- + Golang
- + Python
- + React JS
- + Java
-<hr>
-<div align>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddhabagal&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhabagal&layout=compact&theme=tokyonight&line_height=27)](https://github.com/aniruddhabagal/github-readme-stats) -->
-<!-- ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aniruddhabagal&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)<br> -->
-</div>
-
-</b>
-
-
-
-
-
-
-
-
-
-<!--
-**aniruddhabagal/aniruddhabagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+Please consider starring the repo if you find this useful in any manner
+or use it. It helps me a lot.
 -->
+
+<img src='README_Banner.png' alt="banner"></img>
+
+# Hi, I am <a href = "https://aniruddhabagal.co">Aniruddha</a>. Nice to see you here 👋
+
+<b>A 21-year-old, pursuing B.Tech in Computer Science from [Vidyavardhaka College Of Engineering](https://vvce.ac.in)</b><br>
+I am a driven Full-Stack developer with a focus on 👨‍💻 building cutting-edge productsusing React and React-Native. I specialize in building scalable backends powered by PHP, NodeJS, and Golang, ensuring high-performance and seamless userexperiences.<br>
+
+I am also the GitHub Campus Expert 🚩 and Lead of Google Developers Student Club at my campus. Through these programs I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+
+<a href = "https://app.daily.dev/AniruddhaBagal"><img align = "right" src="https://api.daily.dev/devcards/e8229295544844c29a17476df8af70c9.png?r=pqa" width="250" alt="Aniruddha Bagal's Dev Card"></a>
+
+- 🔭 Check out my <a href="https://aniruddhabagal.co"><b>Portfolio Website</b></a>
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
+- 🪶 I try to offer my contribution which realises the power of community.
+- 👯 I am open to collaboration with creators, developers and tech enthusiasts.
+- 🚢 Keen on developing my skill set and putting it to use.<br>
+<hr>
+
+## 📩 Connect with me
+
+Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:bagalaniruddha@gmail.com"><b>here</b><br><br>
+<a href = "https://linkedin.com/in/aniruddha-bagal"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
+<a href = "https://instagram.com/aniruddha_bagal"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
+<a href = "https://twitter.com/AniruddhaBagal"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
+
+<hr>
+
+## ⚡ Languages, Tools and Technologies
+
+<table>
+<tr>
+	<td><strong>Frontend & Design</strong></td>
+	<td><strong>DevOps & Deployment</strong></td>
+	<td><strong>Version Control</strong></td>
+	<td><strong>Editors</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td>
+</tr>
+</table>
+<table>
+<tr>
+	<td><strong>Backend & Databases</strong></td>
+	<td><strong>API & Testing</strong></td>
+	<td><strong>Languages</strong></td>
+	<td><strong>Miscellaneous</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td>
+</tr>
+</table>
+<hr>
+
+## 📊 Metrics
+
+<table>
+	<tr>
+		<td colspan = "2"><a href = "https://aniruddhabagal.co"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhabagal&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://linkedin.com/in/aniruddha-bagal"><img src="https://github-readme-stats.vercel.app/api?username=aniruddhabagal&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
+		<td><a href="https://wakatime.com/@aniruddhabagal"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
+	</tr>
+	<tr>
+		<td colspan = "2"><a href="https://instagram.com/aniruddha_bagal"><img width=100% src="https://github-profile-trophy.vercel.app/?username=aniruddhabagal&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+	</tr>
+	</table>
+<!-- <details> -->
+<!-- <summary><h2>✒️ Recent GitHub Activity</h1></summary> -->
+
+<hr>
+<!-- <a href = "https://www.holopin.io/@aniruddhabagal"><img src = "https://holopin.me/aniruddhabagal"></a>
+<hr>
+<div align = "center">
+<h3><b>Visits Count 👁️</b></h3>
+<img width = 25% src = "https://profile-counter.glitch.me/{aniruddhabagal}/count.svg"> -->
+ 
+### Show some ❤️ by starring 🌟 some of my repos!
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
