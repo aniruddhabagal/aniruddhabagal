@@ -86,10 +86,10 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <h3><b>Visits Count 👁️</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{aniruddhabagal}/count.svg"> -->
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
+
 ### Show some ❤️ by starring 🌟 some of my repos!
 
 </div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aniruddhabagal.aniruddhabagal)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
