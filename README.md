@@ -12,7 +12,7 @@ I am a driven Full-Stack developer with a focus on 👨‍💻 building cutting-
 
 I am also the GitHub Campus Expert 🚩 and Lead of Google Developers Student Club at my campus. Through these programs I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
-<a href = "https://app.daily.dev/AniruddhaBagal"><img align = "right" src="https://api.daily.dev/devcards/e8229295544844c29a17476df8af70c9.png?r=pqa" width="250" alt="Aniruddha Bagal's Dev Card"></a>
+<a href = "https://app.daily.dev/AniruddhaBagal"><img align = "right" src="https://api.daily.dev/devcards/e8229295544844c29a17476df8af70c9.png?r=00m" width="250" alt="Aniruddha Bagal's Dev Card"></a>
 
 - 🔭 Check out my <a href="https://aniruddhabagal.co"><b>Portfolio Website</b></a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
